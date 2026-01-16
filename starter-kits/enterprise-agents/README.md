@@ -1,7 +1,7 @@
 # 🏢 Enterprise Agents - Starter Kit
 
 **Track**: Battle #3 - Enterprise Agents with M365 Agents Toolkit  
-**Date**: Friday, February 19, 2026 - 8am Pacific Time + Friday, February 26, 2026 - 8am Pacific Time
+**Date**: Friday, February 19, 2026 - 8am Pacific Time
 
 Welcome to the Enterprise Agents track! In this challenge, you will build intelligent agents that extend **Microsoft 365 Copilot** to address real-world enterprise scenarios. Your goal is to create agents that seamlessly integrate with Microsoft 365 workloads, leveraging the power of AI to automate tasks, enhance productivity, and deliver exceptional user experiences within the enterprise ecosystem.
 
