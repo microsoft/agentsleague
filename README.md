@@ -1,9 +1,9 @@
-# Agents League
+<div align="center">
+
+# Agents League Contest
 
 <img width="4404" height="2475" alt="agentsleague_v2" src="https://github.com/user-attachments/assets/4a6d085b-cecb-448d-b0f9-b35a49c397c6" />
 
-<div align="center">
-  
 ## Register first to participate!
 
 <a href="https://aka.ms/agentsleague/register">
