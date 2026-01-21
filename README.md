@@ -16,7 +16,7 @@
 
 **A 2-week AI developer challenge with live coding battles, community building, and competition.**
 
-Build innovative AI agents using GitHub Copilot, Azure AI Foundry, or M365 Agents Toolkit. Compete for recognition, network with developers globally, and get feedback from Microsoft product teams.
+Build innovative AI agents using GitHub Copilot, Microsoft Foundry, or M365 Agents Toolkit. Compete for recognition, network with developers globally, and get feedback from Microsoft product teams.
 
 ## What's Agents League?
 
@@ -36,7 +36,7 @@ Pick one or compete in all three!
 | Track | Tool | Challenge | Starter Kit |
 |-------|------|-----------|-------------|
 | 🎨 **Creative Apps** | GitHub Copilot | Build innovative creative applications using AI-assisted development | [View →](./starter-kits/1-creative-apps/) |
-| 🧠 **Reasoning Agents** | Azure AI Foundry | Create intelligent agents that solve complex problems through multi-step reasoning | [View →](./starter-kits/2-reasoning-agents/) |
+| 🧠 **Reasoning Agents** | Microsoft Foundry | Create intelligent agents that solve complex problems through multi-step reasoning | [View →](./starter-kits/2-reasoning-agents/) |
 | 💼 **Enterprise Agents** | M365 Agents Toolkit | Build business-ready knowledge agents integrated with Microsoft 365 | [View →](./starter-kits/3-enterprise-agents/) |
 
 ## How to Participate
@@ -54,7 +54,7 @@ Registration gives you:
 ### 2. Choose Your Track
 
 - **Creative Apps** - Build with GitHub Copilot
-- **Reasoning Agents** - Build with Azure AI Foundry  
+- **Reasoning Agents** - Build with Microsoft Foundry  
 - **Enterprise Agents** - Build with M365 Agents Toolkit
 
 Browse [`starter-kits/`](./starter-kits/) for setup guides and examples
@@ -125,7 +125,7 @@ Projects are evaluated by experts and product teams using this rubric:
 ### 📦 Starter Kits (with setup guides & examples)
 
 - [Creative Apps](./starter-kits/1-creative-apps/) - GitHub Copilot
-- [Reasoning Agents](./starter-kits/2-reasoning-agents/) - Azure AI Foundry  
+- [Reasoning Agents](./starter-kits/2-reasoning-agents/) - Microsoft Foundry  
 - [Enterprise Agents](./starter-kits/3-enterprise-agents/) - M365 Toolkit
 
 ### 💬 Community & Support
