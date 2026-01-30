@@ -316,20 +316,14 @@ Your submission **must** be a creative application that showcases innovation and
 
 ### 🏆 Evaluation Criteria
 
-Submissions will be scored using the following weighted criteria:
+Projects are evaluated using this rubric, which combines scores from expert judges, product teams, and a community vote:
 
-| Criterion | Impact |
-|-----------|--------|
-| **Accuracy & Relevance** | **25%** — Solution meets challenge requirements, aligns with the scenario, and produces correct, relevant outputs |
-| **Reasoning & Multi-step Thinking** | **25%** — Clear problem decomposition, structured reasoning, and effective agent collaboration |
-| **Creativity & Originality** | **15%** — Novel ideas, unique agent roles, or unexpected but effective execution |
-| **User Experience & Presentation** | **15%** — Polished, clear, and demoable experience with understandable workflows |
-| **Reliability & Safety** | **20%** — Robust agent patterns, safe tool/API/MCP usage, and avoidance of common pitfalls |
-
-
-**Bonus Points:**
-- **+10 Fan Favorite** — Community vote via Discord poll
-- **+10 Product Team Pick** — Selected by Microsoft product teams
+- **Accuracy & Relevance (20%)** — Meets challenge requirements
+- **Reasoning & Multi-step Thinking (20%)** — Clear problem-solving approach
+- **Creativity & Originality (15%)** — Novel ideas or unexpected execution
+- **User Experience & Presentation (15%)** — Clear, polished, demoable
+- **Reliability & Safety (20%)** — Solid patterns, avoids obvious pitfalls
+- **Community vote (10%)** via the Discord poll available at https://aka.ms/agentsleague/discord
 
 ---
 
