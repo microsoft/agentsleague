@@ -31,6 +31,8 @@ A **2-week developer competition** combining:
 
 **Open to everyone** - all skill levels welcome! Watch the battles for inspiration, then build one project or compete in all three tracks.
 
+Use AI assisted development with tools like [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview), the [GitHub Copilot CLI](https://github.com/features/copilot/cli/), or the [GitHub Copilot CLI SDK](https://github.com/github/copilot-sdk).
+
 ## Challenge Tracks
 
 Pick one or compete in all three!
