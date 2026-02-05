@@ -6,6 +6,8 @@ labels: feedback, product
 assignees: ''
 ---
 
+> ⚠️ **IMPORTANT**: This is a public repository. Do NOT include any confidential, proprietary, or sensitive information in your submission. This includes credentials, API keys, customer data, PII, or Microsoft Confidential information. Please review our [Disclaimer](https://github.com/microsoft/agentsleague/blob/main/DISCLAIMER.md) before submitting.
+
 ## Feedback Type
 <!-- Select one: Feature Request | Improvement | Usability | General Feedback -->
 

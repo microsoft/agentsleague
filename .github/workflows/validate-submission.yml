@@ -58,7 +58,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issue.number,
-              body: '✅ Submission validated! Thank you for participating in Agents League. Judges will review your project during the evaluation period (Mar 1-13, 2025).'
+              body: '✅ Submission validated! Thank you for participating in Agents League. Judges will review your project during the evaluation period (Mar 1-13, 2026).'
             });
             
       - name: Check repository accessibility
@@ -115,6 +115,4 @@ jobs:
                 body: '❌ **Error**: Could not access the repository. Please ensure:\n- The repository URL is correct\n- The repository is **public** (not private)\n- The repository exists'
               });
             }
-              - ✅ Secret scan completed
-              - ✅ Markdown validation attempted
 

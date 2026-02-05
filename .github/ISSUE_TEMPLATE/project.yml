@@ -10,7 +10,9 @@ body:
         
         Please fill out this form completely to submit your project. All fields are required for evaluation.
         
-        **Submission Deadline**: March 1, 2025 (11:59 PM PT)
+        **Submission Deadline**: March 1, 2026 (11:59 PM PT)
+        
+        ⚠️ **Important**: Before submitting, please read our [Disclaimer](https://github.com/microsoft/agentsleague/blob/main/DISCLAIMER.md). Do NOT upload any confidential, proprietary, or sensitive information.
         
   - type: dropdown
     id: track
@@ -101,6 +103,28 @@ body:
     validations:
       required: true
       
+  - type: dropdown
+    id: submission-type
+    attributes:
+      label: Submission Type
+      description: Are you submitting as an individual or as a team?
+      options:
+        - Individual
+        - Team (2-4 members)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: team-members
+    attributes:
+      label: Team Members
+      description: If submitting as a team, list all team members with their GitHub usernames
+      placeholder: |
+        - @teammate1 - Role (e.g., Backend Developer)
+        - @teammate2 - Role (e.g., Frontend Developer)
+    validations:
+      required: false
+
   - type: checkboxes
     id: requirements
     attributes:
@@ -118,6 +142,12 @@ body:
         - label: My project is my own work with proper attribution for any third-party code
           required: true
         - label: I agree to the [Code of Conduct](https://github.com/microsoft/agentsleague/blob/main/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I have read and agree to the [Disclaimer](https://github.com/microsoft/agentsleague/blob/main/DISCLAIMER.md)
+          required: true
+        - label: My submission does NOT contain any confidential, proprietary, or sensitive information
+          required: true
+        - label: I confirm I have the rights to submit this content and grant the necessary licenses
           required: true
           
   - type: textarea
@@ -162,6 +192,15 @@ body:
       placeholder: "email@example.com or linkedin.com/in/yourprofile"
     validations:
       required: false
+
+  - type: input
+    id: country
+    attributes:
+      label: Country/Region
+      description: Your country or region (for prize eligibility verification)
+      placeholder: "e.g., United States, United Kingdom, India"
+    validations:
+      required: true
       
   - type: markdown
     attributes:
@@ -172,10 +211,10 @@ body:
         
         1. **Review Period** (March): Our evaluation team will review your submission
         2. **Community Voting**: Discord poll for Fan Favorite (March)
-        3. **Winners Announced**: March, 2025
+        3. **Winners Announced**: March, 2026
         
         Make sure to:
-        - Join our [Discord](https://aka.ms/agents-league-discord) and share your project
+        - Join our [Discord](https://aka.ms/agentsleague/discord) and share your project
         - Participate in community voting
         - Engage with other participants
         

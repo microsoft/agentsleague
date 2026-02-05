@@ -1,7 +1,7 @@
 # �� Creative Apps - Starter Kit
 
 **Track**: Battle #1 - Creative Apps with GitHub Copilot  
-**Date**: Monday, February 16, 2025
+**Date**: Monday, February 16, 2026
 
 _[Track owners will add challenge overview and goals here]_
 
